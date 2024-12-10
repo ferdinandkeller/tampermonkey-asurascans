@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AsuraScans Limit Max Width
-// @namespace    https://ferdinandkeller.dev
-// @version      2024-11-11
+// @namespace    https://github.com/ferdinandkeller/tampermonkey-asurascans
+// @version      2024-12-10
 // @description  Will limit the width of novels on Asura Comics website.
 // @author       Ferdinand Keller
 // @match        https://asuracomic.net/series/*/chapter/*
