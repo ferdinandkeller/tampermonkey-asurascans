@@ -3,7 +3,7 @@
 // @namespace    https://ferdinandkeller.dev
 // @updateURL    https://raw.githubusercontent.com/ferdinandkeller/tampermonkey-asurascans/main/script.meta.js
 // @downloadURL  https://raw.githubusercontent.com/ferdinandkeller/tampermonkey-asurascans/main/script.user.js
-// @version      1.2
+// @version      1.3
 // @description  Will limit the width of novels on Asura Comics website.
 // @author       Ferdinand Keller
 // @match        https://asuracomic.net/series/*/chapter/*
