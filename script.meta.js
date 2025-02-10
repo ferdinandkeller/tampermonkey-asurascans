@@ -1,5 +1,5 @@
 // ==UserScript==
 // @name         AsuraScans Limit Max Width
 // @namespace    https://ferdinandkeller.dev
-// @version      1.4.1
+// @version      1.4.2
 // ==/UserScript==
